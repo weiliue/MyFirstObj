@@ -81,7 +81,7 @@ a{
     left: 50px;
     border: 1px solid #ddd;
     border-top: 0;
-    /* display: none; */
+    display: none; 
 }
 .head-r-wb:hover .weibo-erweima{
     display: block;
